@@ -40,4 +40,4 @@ Some helpful links for learning HTML:
 
 **Happy coding!**
 
-*Repository created by [jandelcoding](https://github.com/jandelcoding)*
+*Repository created by [LuqmanBinMazlan]https://github.com/LuqmanBinMazlan
